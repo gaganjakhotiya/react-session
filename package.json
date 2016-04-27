@@ -1,0 +1,19 @@
+{
+  "name": "fresh-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "webpack-typescript": "^0.5.6"
+  }
+}
