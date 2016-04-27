@@ -21,7 +21,7 @@
 
 
 
-
+# GOOD PRACTICES
 ## AVOID GLOBAL - USE IIEF
 	var supposedlyPrivateStuff = "HIT"
 	var publicStuff = function(){
