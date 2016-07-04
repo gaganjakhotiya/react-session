@@ -21,6 +21,18 @@
 
 
 
+
+# FILES
+
+1. po-js.html, po-js.js - Initial color-picker sample, written in pure JS
+2. po-react.html, po-react.js - Intermediate React Component of color-picker, written in React, JSX, JS
+3. index.html, index.tsx, ColorPicker.tsx - Final color-picker Component, written in TypeScript
+
+
+
+
+
+
 # GOOD PRACTICES
 ## AVOID GLOBAL - USE IIEF
 	var supposedlyPrivateStuff = "HIT"
